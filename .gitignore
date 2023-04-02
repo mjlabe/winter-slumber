@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+Mixdown/
+Bounces/
+Cache/
+History/
+*.autosave
+*.wav
+*.mp3
